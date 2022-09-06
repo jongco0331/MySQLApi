@@ -1,0 +1,5 @@
+name: JonghyunMysqlAPI
+version: '${project.version}'
+main: com.jonghyun.mysql.Mysql
+commands:
+  mysql:
